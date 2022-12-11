@@ -1,6 +1,6 @@
 # Icewind Dale 2 modlist
 
-[DDrawCompat](https://github.com/narzoul/DDrawCompat), [mirror](https://github.com/the-overdriven/DDrawCompat) - fixes flickering and map fog
+[DDrawCompat](https://github.com/narzoul/DDrawCompat), [mirror](https://github.com/the-overdriven/DDrawCompat), [dll mirror](https://drive.google.com/file/d/1-poKmmkWyxBa0jKTN1-XRQOGfS67pFP_/view?usp=sharing) - fixes flickering and map fog
 
 [Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod)  
   
