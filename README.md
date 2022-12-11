@@ -57,4 +57,4 @@ Add attacks of opportunity to the game
 Roll for stats at character creation  
 Add key bindings for automating buffing  
 
-In order to fix issues with flickering and alt-tab tt might be needed to play the game in window mode, with screen downsized to 1366x768 resolution and with decreased FPS.
+**In order to fix issues with flickering and alt-tab it might be needed to play the game in window mode, with screen downsized to 1366x768 resolution and with decreased FPS.**
