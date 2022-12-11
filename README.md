@@ -2,9 +2,15 @@
 
 [DDrawCompat](https://github.com/narzoul/DDrawCompat), [mirror](https://github.com/the-overdriven/DDrawCompat) - fixes flickering and map fog
 
-[Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod)
+[Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod)  
   
-[Almateria Fix Pack](http://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/), [mirror](https://drive.google.com/file/d/1ur621s03DYATc-Db2IA79K8VqY1yV8dX/view?usp=sharing)
+[Almateria Fix Pack](http://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/), [mirror](https://drive.google.com/file/d/1ur621s03DYATc-Db2IA79K8VqY1yV8dX/view?usp=sharing)  
+
+[Corvias' Bigger Font Mod](http://www.shsforums.net/topic/38626-bigger-fonts-for-bgiitob-and-other-ie-games/), [mirror](https://drive.google.com/file/d/1-NUVRwe00RhsWv91BPWaL-AVPSYgJmqC/view?usp=sharing)  
+
+[Ghostdog's bigger fonts](https://rpgcodex.net/forums/attachments/iwd2-bigger-fonts-zip.10894/), [mirror](https://drive.google.com/file/d/1BHe3G243Ko88l8jD2ZtPPYiM4AIl5Rh_/view?usp=sharing)
+
+[Luren's IWD Dialogue GUI FIX](http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917), [mirror](https://drive.google.com/file/d/11cHJ_7F67mR6rnkVdeaU-BR1IRNTOyZF/view?usp=sharing)  
 
 [IwD2EE mod](https://discord.gg/4H9nNPH9) (WiP beta), [mirror](https://drive.google.com/file/d/1ODG-48K1Slirp710WVYET5RzRyWgi0yd/view?usp=sharing)  
 Most importantly it adds area loot and better map scroll.  
