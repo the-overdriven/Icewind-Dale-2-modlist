@@ -13,7 +13,7 @@
 [Luren's Dialogue GUI FIX](http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917), [mirror](https://drive.google.com/file/d/11cHJ_7F67mR6rnkVdeaU-BR1IRNTOyZF/view?usp=sharing)  
 
 [IwD2EE mod](https://discord.gg/4H9nNPH9) (WiP beta), [mirror](https://drive.google.com/file/d/1ODG-48K1Slirp710WVYET5RzRyWgi0yd/view?usp=sharing)  
-Most importantly it adds area loot and better map scroll.  
+Most importantly it adds area loot and map scroll on mouse wheel click.  
 Personally I skip new bloat and rule changes (spells, items, skills, revisions, NPCs, etc.).  
   
 **Best components for smoother gameplay:**  
@@ -56,3 +56,5 @@ Remove the summoning limit
 Add attacks of opportunity to the game  
 Roll for stats at character creation  
 Add key bindings for automating buffing  
+
+In order to fix issues with flickering and alt-tab tt might be needed to play the game in window mode, with screen downsized to 1366x768 resolution and with decreased FPS.
