@@ -2,7 +2,7 @@
 
 [DDrawCompat](https://github.com/narzoul/DDrawCompat), [mirror](https://github.com/the-overdriven/DDrawCompat), [dll mirror](https://drive.google.com/file/d/1-poKmmkWyxBa0jKTN1-XRQOGfS67pFP_/view?usp=sharing) - fixes flickering and map fog
 
-[Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod)  
+[Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod), [release mirror](https://drive.google.com/file/d/1PRkKHmezSKTTtgUsetdg1rWi0KcTUFXd/view?usp=sharing)  
   
 [Almateria Fix Pack](http://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/), [mirror](https://drive.google.com/file/d/1ur621s03DYATc-Db2IA79K8VqY1yV8dX/view?usp=sharing) 
 
