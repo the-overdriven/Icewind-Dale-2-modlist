@@ -4,8 +4,8 @@
   
 
 [IwD2EE mod](https://discord.gg/4H9nNPH9) (WiP beta), [mirror](https://drive.google.com/file/d/1ODG-48K1Slirp710WVYET5RzRyWgi0yd/view?usp=sharing)  
-It adds area loot and better map scroll.  
-I skip new bloat and rule changes (spells, items, skills, revisions, NPCs, etc.)  
+Most importantly it adds area loot and better map scroll.  
+Personally I skip new bloat and rule changes (spells, items, skills, revisions, NPCs, etc.).  
   
 **Best components for smoother gameplay:**  
 
