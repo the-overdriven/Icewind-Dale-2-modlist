@@ -10,7 +10,7 @@
 
 [Ghostdog's bigger fonts](https://rpgcodex.net/forums/attachments/iwd2-bigger-fonts-zip.10894/), [mirror](https://drive.google.com/file/d/1BHe3G243Ko88l8jD2ZtPPYiM4AIl5Rh_/view?usp=sharing)
 
-[Luren's IWD Dialogue GUI FIX](http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917), [mirror](https://drive.google.com/file/d/11cHJ_7F67mR6rnkVdeaU-BR1IRNTOyZF/view?usp=sharing)  
+[Luren's Dialogue GUI FIX](http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917), [mirror](https://drive.google.com/file/d/11cHJ_7F67mR6rnkVdeaU-BR1IRNTOyZF/view?usp=sharing)  
 
 [IwD2EE mod](https://discord.gg/4H9nNPH9) (WiP beta), [mirror](https://drive.google.com/file/d/1ODG-48K1Slirp710WVYET5RzRyWgi0yd/view?usp=sharing)  
 Most importantly it adds area loot and better map scroll.  
