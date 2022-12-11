@@ -4,7 +4,9 @@
 
 [Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod)  
   
-[Almateria Fix Pack](http://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/), [mirror](https://drive.google.com/file/d/1ur621s03DYATc-Db2IA79K8VqY1yV8dX/view?usp=sharing)  
+[Almateria Fix Pack](http://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/), [mirror](https://drive.google.com/file/d/1ur621s03DYATc-Db2IA79K8VqY1yV8dX/view?usp=sharing) 
+
+[The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing)   
 
 [Corvias' Bigger Font Mod](http://www.shsforums.net/topic/38626-bigger-fonts-for-bgiitob-and-other-ie-games/), [mirror](https://drive.google.com/file/d/1-NUVRwe00RhsWv91BPWaL-AVPSYgJmqC/view?usp=sharing)  
 
