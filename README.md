@@ -12,7 +12,7 @@
 
 [Ghostdog's bigger fonts](https://rpgcodex.net/forums/attachments/iwd2-bigger-fonts-zip.10894/), [mirror](https://drive.google.com/file/d/1BHe3G243Ko88l8jD2ZtPPYiM4AIl5Rh_/view?usp=sharing)
 
-[Luren's Dialogue GUI FIX](http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917), [mirror](https://drive.google.com/file/d/11cHJ_7F67mR6rnkVdeaU-BR1IRNTOyZF/view?usp=sharing)  
+~~[Luren's Dialogue GUI FIX](http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917), [mirror](https://drive.google.com/file/d/11cHJ_7F67mR6rnkVdeaU-BR1IRNTOyZF/view?usp=sharing)~~ use [bigger dialogue box](https://github.com/the-overdriven/Icewind-Dale-2-modlist/tree/main/bigger_dialogue_box) instead  
 
 [IwD2EE mod](https://forums.beamdog.com/discussion/87952/icewind-dale-2-enhanced-edition-is-released/p1), [mirror](https://drive.google.com/file/d/1ODG-48K1Slirp710WVYET5RzRyWgi0yd/view?usp=sharing)  
 Most importantly it adds area loot and map scroll on mouse wheel click.  
