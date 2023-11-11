@@ -1,14 +1,14 @@
 # Icewind Dale 2 modlist
 
-[DDrawCompat](https://github.com/narzoul/DDrawCompat), [mirror](https://github.com/the-overdriven/DDrawCompat), [dll mirror](https://drive.google.com/file/d/1-poKmmkWyxBa0jKTN1-XRQOGfS67pFP_/view?usp=sharing) - fixes flickering and map fog
+~~[DDrawCompat](https://github.com/narzoul/DDrawCompat), [mirror](https://github.com/the-overdriven/DDrawCompat), [dll mirror](https://drive.google.com/file/d/1-poKmmkWyxBa0jKTN1-XRQOGfS67pFP_/view?usp=sharing) - fixes flickering and map fog~~ (not needed anymore!)
 
-[Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod), [release mirror](https://drive.google.com/file/d/1PRkKHmezSKTTtgUsetdg1rWi0KcTUFXd/view?usp=sharing)  
+~~[Widescreen mod](https://github.com/Gibberlings3/widescreen), [mirror](https://github.com/the-overdriven/bg-iwd-widescreen-mod), [release mirror](https://drive.google.com/file/d/1PRkKHmezSKTTtgUsetdg1rWi0KcTUFXd/view?usp=sharing)~~ (not needed anymore!)  
   
 [Almateria Fix Pack](http://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/), [mirror](https://drive.google.com/file/d/1ur621s03DYATc-Db2IA79K8VqY1yV8dX/view?usp=sharing) 
 
 [The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing)   
 
-[Corvias' Bigger Font Mod](http://www.shsforums.net/topic/38626-bigger-fonts-for-bgiitob-and-other-ie-games/), [mirror](https://drive.google.com/file/d/1-NUVRwe00RhsWv91BPWaL-AVPSYgJmqC/view?usp=sharing)  
+[Corvias' Bigger Font Mod](http://www.shsforums.net/topic/38626-bigger-fonts-for-bgiitob-and-other-ie-games/), [mirror](https://drive.google.com/file/d/1-NUVRwe00RhsWv91BPWaL-AVPSYgJmqC/view?usp=sharing) (bigger than Ghostdog's bigger fonts, but don't fit well IMO)  
 
 [Ghostdog's bigger fonts](https://rpgcodex.net/forums/attachments/iwd2-bigger-fonts-zip.10894/), [mirror](https://drive.google.com/file/d/1BHe3G243Ko88l8jD2ZtPPYiM4AIl5Rh_/view?usp=sharing)
 
